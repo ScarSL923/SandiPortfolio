@@ -42,10 +42,31 @@ Key features include:
 This project showcases my skills in advanced data analysis, complex DAX, and creating interactive, user-friendly reports that support healthcare decision-making.
 - [Power BI High Risk Report](https://youtu.be/K4hFjkJi1tw)
 
-### Give Kudos- Power App
+### Employee Kudos/Gratitude App - Power App
+A Power App that enables employees to submit kudos and expressions of gratitude to their colleagues. This application not only fosters a positive work environment but also provides a platform for recognition and appreciation. 
+
+Key features include:
+- Kudos Submission: Allows employees to submit kudos to their colleagues easily.
+- Gallery View: Users can view all submitted kudos in a gallery format, promoting transparency and recognition.
+- Power Automate Notifications: Integrated Power Automate flow sends notifications to recipients when a kudo is submitted, ensuring timely acknowledgment.
+- Archiving System: A separate Power Automate flow archives kudos after 90 days, maintaining a clean and current gallery.
+- Power BI Report: A Power BI report visualizes the kudos data, providing insights into recognition trends and engagement levels.
+- User-Friendly Interface: Designed with an intuitive layout to ensure ease of use for all employees.
+
+This project highlights my skills in app development, workflow automation, and data visualization, demonstrating my ability to create solutions that enhance workplace culture and engagement.
 - [Give Kudos Power App](https://youtu.be/GZbGwCvSHvI)
 
-### NFS Annual Report - Power App
+### Annual Report Submission App - Power App
+A Power App designed to streamline the process of annual report submissions in compliance with NFS directives. This application centralizes data collection and ensures accuracy through built-in calculations, significantly reducing the time required for submissions. 
+
+Key features include:
+- Streamlined Submission Process: Simplifies the annual report submission process, ensuring all required data points are collected efficiently.
+- Centralized Data Architecture: Organizes and stores all submission data in one location, making it easily accessible and manageable.
+- Built-In Calculations: Incorporates calculations within the app to ensure data accuracy and reduce the time needed for manual calculations.
+- User-Friendly Interface: Designed with an intuitive layout to facilitate ease of use for all users.
+- Compliance Assurance: Ensures that all submissions meet the NFS directive requirements.
+
+  This project showcases my skills in app development, data management, and process optimization, demonstrating my ability to create solutions that enhance efficiency and accuracy in organizational processes.
 - [NFS Annual Report Power App](https://youtu.be/xyL4W19yjXk)
 
   
