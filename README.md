@@ -1,6 +1,7 @@
 
 # 👋 Hello, I'm Sandi Scarangella
 Thanks for stopping by! As a passionate learner, innovative creator, and inquisitive explorer, I thrive on tackling meaningful challenges with data and technology. I believe in taking action and making a difference.
+
 # Projects
 
 ### Recipe Repository with Approval Process - Power App
@@ -71,9 +72,3 @@ Key features include:
 This project showcases my skills in app development, data management, and process optimization, demonstrating my ability to create solutions that enhance efficiency and accuracy in organizational processes.
 - [NFS Annual Report Power App](https://youtu.be/xyL4W19yjXk)
 
-  
-# new section
-- add here
-
-# additional section if needed
-- add here
