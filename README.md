@@ -1,4 +1,6 @@
-# Sandi Scarangella
+
+# 👋 Hello, I'm Sandi Scarangella
+Thanks for stopping by! As a passionate learner, innovative creator, and inquisitive explorer, I thrive on tackling meaningful challenges with data and technology. I believe in taking action and making a difference.
 # Projects
 
 ### Recipe Repository with Approval Process - Power App
