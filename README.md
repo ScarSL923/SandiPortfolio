@@ -66,7 +66,7 @@ Key features include:
 - User-Friendly Interface: Designed with an intuitive layout to facilitate ease of use for all users.
 - Compliance Assurance: Ensures that all submissions meet the NFS directive requirements.
 
-  This project showcases my skills in app development, data management, and process optimization, demonstrating my ability to create solutions that enhance efficiency and accuracy in organizational processes.
+This project showcases my skills in app development, data management, and process optimization, demonstrating my ability to create solutions that enhance efficiency and accuracy in organizational processes.
 - [NFS Annual Report Power App](https://youtu.be/xyL4W19yjXk)
 
   
