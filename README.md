@@ -1,5 +1,4 @@
-# Sandi Portfolio 
-## Projects
+# Sandi Scarangella
 ### Project 1
 - Description
 - Links
