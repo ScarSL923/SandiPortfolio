@@ -38,13 +38,19 @@ Key features include:
 - Enhanced Tooltips: Added enhanced tooltips on visuals to provide additional context and insights.
 - Drill-Through Features: Incorporated drill-through capabilities to allow users to navigate to detailed reports from summary visuals.
 - User-Friendly Design: Designed with an intuitive layout to facilitate ease of use for healthcare professionals.
-- 
+  
 This project showcases my skills in advanced data analysis, complex DAX, and creating interactive, user-friendly reports that support healthcare decision-making.
 - [Power BI High Risk Report](https://youtu.be/K4hFjkJi1tw)
 
+### Give Kudos- Power App
+- [Give Kudos Power App](https://youtu.be/GZbGwCvSHvI)
 
-# Education 
+### NFS Annual Report - Power App
+- [NFS Annual Report Power App](https://youtu.be/xyL4W19yjXk)
+
+  
+# new section
 - add here
 
-# Awards and Certifications 
+# additional section if needed
 - add here
