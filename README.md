@@ -2,9 +2,8 @@
 # Projects
 
 ### Power Apps Project Example 1
-- Recipe Repository with Approval Process - Power App
-
-I developed a Power App designed to serve as a comprehensive recipe repository with an integrated approval process. This application allows users to submit their own recipes, which are then reviewed and approved by designated approvers and viewable in the recipe gallery. 
+Recipe Repository with Approval Process - Power App
+Power App designed to serve as a comprehensive recipe repository with an integrated approval process. This application allows users to submit their own recipes, which are then reviewed and approved by designated approvers and viewable in the recipe gallery. 
 
 Key features include:
 - User-Friendly Interface: Intuitive design for easy recipe submission and browsing.
