@@ -41,7 +41,7 @@ Key features include:
 - 
 This project showcases my skills in advanced data analysis, complex DAX, and creating interactive, user-friendly reports that support healthcare decision-making.
 - [Power BI High Risk Report](https://youtu.be/K4hFjkJi1tw)
-- Description
+
 
 # Education 
 - add here
