@@ -3,7 +3,12 @@
 Thanks for stopping by! As a passionate learner, innovative creator, and inquisitive explorer, I thrive on tackling meaningful challenges with data and technology. I believe in taking action and making a difference.
 
 # Projects
-
+    1. [Recipe Repository with Approval Process App](https://github.com/ScarSL923/SandiPortfolio?tab=readme-ov-file#recipe-repository-with-approval-process---power-app)
+    2. [Patient Level Care Report](https://github.com/ScarSL923/SandiPortfolio?tab=readme-ov-file#patient-level-care-report---power-bi)
+    3. [High Risk Report](https://github.com/ScarSL923/SandiPortfolio?tab=readme-ov-file#high-risk-report---power-bi)
+    4. [Employee Kudos/Gratitude App](https://github.com/ScarSL923/SandiPortfolio?tab=readme-ov-file#employee-kudosgratitude-app---power-app)
+    5. [Annual Report Submission App](https://github.com/ScarSL923/SandiPortfolio?tab=readme-ov-file#annual-report-submission-app---power-app)
+    
 ### Recipe Repository with Approval Process - Power App
 Power App designed to serve as a comprehensive recipe repository with an integrated approval process. This application allows users to submit their own recipes, which are then reviewed and approved by designated approvers and viewable in the recipe gallery. 
 
