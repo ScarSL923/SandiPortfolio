@@ -14,9 +14,9 @@ Thanks for stopping by! As a passionate learner, innovative creator, and inquisi
 
 [Annual Report Submission App](https://github.com/ScarSL923/SandiPortfolio?tab=readme-ov-file#annual-report-submission-app---power-app)
 
-[Multi-Level Approval Workflow Automation]()
+[Multi-Level Approval Workflow Automation](https://github.com/ScarSL923/SandiPortfolio/blob/main/README.md#multi-level-approval-workflow-automation--power-automate)
 
-[Automated Weekly SharePoint Data Distribution]()
+[Automated Weekly SharePoint Data Distribution](https://github.com/ScarSL923/SandiPortfolio/blob/main/README.md#automated-weekly-sharepoint-data-distribution--power-automate)
     
 ### Patient Level Care Report - Power BI
 A Power BI report tailored for patient-level care, enabling healthcare professionals to drill down into their cohort based on specific filters. This report is designed to enhance data-driven decision-making in a healthcare setting. 
