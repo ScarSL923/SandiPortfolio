@@ -112,5 +112,6 @@ Key Features:
 This project highlights my ability to leverage Power Automate for process automation, enhancing efficiency and communication through seamless data integration.
 - [Automated Weekly SharePoint Data Distribution](https://youtu.be/YcRtjpprnYw)
 
-
+# Badges
+[![Microsoft Power Up Program](https://github.com/ScarSL923/SandiPortfolio/blob/main/docs/assets/microsoft-power-up-program-power-platform-course-co.png)](https://www.credly.com/badges/8907a312-98e3-4e84-931b-09bb1071871e/public_url)
 
