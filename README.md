@@ -1,5 +1,5 @@
 
-# 👋 Hello, I'm Sandi Scarangella
+# 👋 Hello, I'm Sandi Scarangella!
 Thanks for stopping by! As a passionate learner, innovative creator, and inquisitive explorer, I thrive on tackling meaningful challenges with data and technology. I believe in taking action and making a difference.
 
 # Projects
@@ -74,17 +74,17 @@ This project highlights my skills in app development, workflow automation, and d
 - [Give Kudos Power App](https://youtu.be/GZbGwCvSHvI)
 
 ### Annual Report Submission App - Power App
-A Power App designed to streamline the process of annual report submissions in compliance with NFS directives. This application centralizes data collection and ensures accuracy through built-in calculations, significantly reducing the time required for submissions. 
+A Power App designed to streamline the process of annual report submissions in compliance with directives. This application centralizes data collection and ensures accuracy through built-in calculations, significantly reducing the time required for submissions. 
 
 Key features include:
 - Streamlined Submission Process: Simplifies the annual report submission process, ensuring all required data points are collected efficiently.
 - Centralized Data Architecture: Organizes and stores all submission data in one location, making it easily accessible and manageable.
 - Built-In Calculations: Incorporates calculations within the app to ensure data accuracy and reduce the time needed for manual calculations.
 - User-Friendly Interface: Designed with an intuitive layout to facilitate ease of use for all users.
-- Compliance Assurance: Ensures that all submissions meet the NFS directive requirements.
+- Compliance Assurance: Ensures that all submissions meet the directive requirements.
 
 This project showcases my skills in app development, data management, and process optimization, demonstrating my ability to create solutions that enhance efficiency and accuracy in organizational processes.
-- [NFS Annual Report Power App](https://youtu.be/xyL4W19yjXk)
+- [Annual Report Power App](https://youtu.be/xyL4W19yjXk)
 
 ### Multi-Level Approval Workflow Automation- Power Automate
 This Power Automate flow streamlines a structured approval process by automating multi-level approvals with real-time email communication.
