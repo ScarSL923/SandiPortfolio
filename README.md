@@ -1,6 +1,6 @@
 
 # 👋 Hello, I'm Sandi Scarangella!
-Thanks for stopping by! As a passionate learner, innovative creator, and inquisitive explorer, I thrive on tackling meaningful challenges with data and technology. I believe in taking action and making a difference.
+Thanks for stopping by! As a passionate learner, innovative creator, and inquisitive explorer, I thrive on tackling meaningful challenges with data and technology. I believe in taking action and making a difference. My journey is driven by a deep commitment to enhancing user experience and creating intuitive, user-friendly solutions. I enjoy collaborating with diverse teams to develop practical and impactful solutions that address real-world problems. Whether it's through coding, data analysis, or strategic planning, I am dedicated to leveraging my skills to streamline processes and eliminate redundancy. Let's connect and explore how we can make a positive impact together!
 
 # Projects
 
