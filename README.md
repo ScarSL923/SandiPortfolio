@@ -112,5 +112,6 @@ Key Features:
 This project highlights my ability to leverage Power Automate for process automation, enhancing efficiency and communication through seamless data integration.
 - [Automated Weekly SharePoint Data Distribution](https://youtu.be/YcRtjpprnYw)
 
-
+# Certifications
+- [PL-300 Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/SandiScarangella-8029/53C2045404E8A401?sharingId=9C63D75B94D7B5DC)
 
